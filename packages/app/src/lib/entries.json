@@ -1,0 +1,315 @@
+{
+    "typescript":{
+        "timeline": [
+            {
+              "moved": -1,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+            }
+            ],
+            "url": "https://www.typescriptlang.org/",
+            "quadrant": "languages"
+    },
+
+    "java":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "languages"
+    },
+
+    "scala":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "hold",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "languages"
+    },
+
+    "airflow":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "delta":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "backstage":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "jupyter":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "power-bi":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "adr-tools":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "trial",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "jupyter-r":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "trial",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "backstage-tech-radar":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "trial",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "opa":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "assess",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "frameworks"
+    },
+
+    "scrum":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "process"
+    },
+
+    "tdd":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "process"
+    },
+
+    "ci-cd":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "process"
+    },
+
+    "poc-rad":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "process"
+    },
+
+    "demo":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "process"
+    },
+
+    "adr":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "trial",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "process"
+    },
+
+    "hcl-templates":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "infrastructure"
+    },
+
+    "adls":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "infrastructure"
+    },
+
+    "synapse":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "use",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "infrastructure"
+    },
+
+    "gitpod":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "trial",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "infrastructure"
+    },
+
+    "cdk-templates":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "trial",
+              "date": "2020-08-06",
+              "description": "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "infrastructure"
+    },
+
+    "purview":{
+        "timeline": [
+            {
+              "moved": 0,
+              "ringId": "assess",
+              "date": "2020-08-06",
+              "description" : "Description"
+            }
+            ],
+            "url": "https://www.java.com/en/download/help/whatis_java.html",
+            "quadrant": "infrastructure",
+            "description": "Description"
+    }
+   
+}
